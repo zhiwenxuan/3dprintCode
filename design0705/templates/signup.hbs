@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>设计中心</title>
+  <link rel="stylesheet" href="/css/signinsignup.css" type="text/css" media="screen" />
+  <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+</head>
+<body>
+
+  <div class="left">&nbsp;</div>
+  <div class="maincolumn">
+    <div class="logo"><img src="/images/logo_small.png" alt="logo"></div>
+    <div class="instructions">
+      {{#temporary}}<div>Any models you've already created will be transferred to your account.</div>{{/temporary}}
+    </div>
+    <form method="post">
+        <input style="display:none" name="username" id="username" placeholder="username" type="text" value="{{username}}"/>
+        {{#errors.username}}<div class="error">{{.}}</div>{{/errors.username}}
+        <input style="display:none" name="emailAddress" id="emailAddress" placeholder="email address" type="email" value="{{emailAddress}}"/>
+        {{#errors.emailAddress}}<div class="error">{{.}}</div>{{/errors.emailAddress}}
+        <input style="display:none" name="password" id="password" placeholder="password" type="password" value="{{password}}"/>
+        {{#errors.password}}<div class="error">{{.}}</div>{{/errors.password}}
+      <input style="display:none" type="submit" value="Sign up"/>
+    </form>
+    <div class="alternative">请点击右上角注册。</div>
+
+  </div>
+  <div class="right">&nbsp;</div>
+
+{{#track}}
+{{/track}}
+  
+</body>
+</html>

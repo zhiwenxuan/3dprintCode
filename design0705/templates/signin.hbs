@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<script type="text/javascript">
+		//	document.write('this is write');
+//	alert('inside test!!!');	
+    window.addEventListener('message', function(event){
+//		alert('inside the window');
+        // 通过origin属性判断消息来源地址
+          // if (event.origin == 'http://192.168.213.0') {
+           if (event.origin == 'http://ddayin.com'|| event.origin == 'http://www.ddayin.com' || event.origin == 'http://3dfe.com'|| event.origin == 'http://www.3dfe.com' || event.origin == 'http://share.ddayin.com'|| event.origin == 'http://112.124.104.11'||event.origin == '106.75.162.144') {
+//		   document.write("this is the design platform");
+//		    alert('test it alert');
+//		    alert(event.data);
+		   var signStr= event.data.split("_");
+		 //  alert(event.data);    // 弹出"I was there!"
+		 //  alert("window open!!"):
+		 // alert(signStr[0]);
+		    document.getElementById('username').value = signStr[0];
+		    document.getElementById('password').value = signStr[1];
+	        document.getElementById('btn').click(); //实现自动提交
+          // alert(event.source);  // 对a.com、index.html中window对象的引用
+                                    // 但由于同源策略，这里event.source不可以访问window对象
+          }
+     }, false);
+
+ </script>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>在线设计中心</title>
+  <link rel="stylesheet" href="/css/signinsignup.css" type="text/css" media="screen" />
+  <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+</head>
+<body>
+
+  <div class="left">&nbsp;</div>
+  <div class="maincolumn">
+	  <!--    <div class="logodk"><img src="/images/login_logo.jpg" align=left  alt="logo"></div>  -->
+    <form method="post">
+		<input style="display:none" name="username" id="username" placeholder="username" type="text" value="" />
+        {{#errors.username}}<div class="error">{{.}}</div>{{/errors.username}}
+        <input style="display:none" name="password" id="password" placeholder="password" type="password" value=""/>
+        {{#errors.password}}<div class="error">{{.}}</div>{{/errors.password}}
+      <input style="display:none" type="submit" id="btn" value="Sign in"/>
+    </form>
+	<div class="alternative">欢迎使用在线设计中心<br> <br> <br> 如果您尚未注册，请点击右上角注册。</div>
+
+  </div>
+  <div class="right">&nbsp;</div>
+
+{{#track}}
+{{/track}}
+  
+</body>
+
+
+</html>

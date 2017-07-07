@@ -1,0 +1,294 @@
+
+    .                           .  .   
+,-. |-. ,-. ,-. ,-. ,-. ,-,-. . |- |-. 
+`-. | | ,-| | | |-' `-. | | | | |  | | 
+`-' ' ' `-^ |-' `-' `-' ' ' ' ' `' ' ' 
+            '                          
+
+configuration:
+---------------------------------------
+environment:        session
+port:               8000
+dbtype:             couch
+redisSessionStore:  true
+---------------------------------------
+Tue, 26 May 2015 00:09:24 GMT connect deprecated multipart: use parser (multiparty, busboy, formidable) npm module instead at node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:56:20
+Tue, 26 May 2015 00:09:24 GMT connect deprecated limit: Restrict request size at location of read at node_modules/express/node_modules/connect/lib/middleware/multipart.js:86:15
+server started on :8000
+
+
+/mnt/shapesmithNEW/node_modules/ueberDB/couch_db.js:109
+        if (er) throw new Error(JSON.stringify(er));
+                      ^
+Error: {"error":"illegal_database_name","reason":"Only lowercase characters (a-z), digits (0-9), and any of the characters _, $, (, ), +, -, and / are allowed. Must begin with a letter."}
+    at /mnt/shapesmithNEW/node_modules/ueberDB/couch_db.js:109:23
+    at IncomingMessage.<anonymous> (/mnt/shapesmithNEW/node_modules/felix-couchdb/lib/couchdb.js:236:26)
+    at IncomingMessage.emit (events.js:117:20)
+    at _stream_readable.js:944:16
+    at process._tickCallback (node.js:448:13)
+
+    .                           .  .   
+,-. |-. ,-. ,-. ,-. ,-. ,-,-. . |- |-. 
+`-. | | ,-| | | |-' `-. | | | | |  | | 
+`-' ' ' `-^ |-' `-' `-' ' ' ' ' `' ' ' 
+            '                          
+
+configuration:
+---------------------------------------
+environment:        session
+port:               8000
+dbtype:             couch
+redisSessionStore:  true
+---------------------------------------
+Tue, 26 May 2015 04:01:03 GMT connect deprecated multipart: use parser (multiparty, busboy, formidable) npm module instead at node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:56:20
+Tue, 26 May 2015 04:01:03 GMT connect deprecated limit: Restrict request size at location of read at node_modules/express/node_modules/connect/lib/middleware/multipart.js:86:15
+server started on :8000
+
+
+    .                           .  .   
+,-. |-. ,-. ,-. ,-. ,-. ,-,-. . |- |-. 
+`-. | | ,-| | | |-' `-. | | | | |  | | 
+`-' ' ' `-^ |-' `-' `-' ' ' ' ' `' ' ' 
+            '                          
+
+configuration:
+---------------------------------------
+environment:        session
+port:               8000
+dbtype:             couch
+redisSessionStore:  true
+---------------------------------------
+Sun, 31 May 2015 13:53:31 GMT connect deprecated multipart: use parser (multiparty, busboy, formidable) npm module instead at node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:56:20
+Sun, 31 May 2015 13:53:31 GMT connect deprecated limit: Restrict request size at location of read at node_modules/express/node_modules/connect/lib/middleware/multipart.js:86:15
+server started on :8000
+
+
+/mnt/shapesmithNEW/node_modules/ueberDB/couch_db.js:109
+        if (er) throw new Error(JSON.stringify(er));
+                      ^
+Error: {"error":"illegal_database_name","reason":"Only lowercase characters (a-z), digits (0-9), and any of the characters _, $, (, ), +, -, and / are allowed. Must begin with a letter."}
+    at /mnt/shapesmithNEW/node_modules/ueberDB/couch_db.js:109:23
+    at IncomingMessage.<anonymous> (/mnt/shapesmithNEW/node_modules/felix-couchdb/lib/couchdb.js:236:26)
+    at IncomingMessage.emit (events.js:117:20)
+    at _stream_readable.js:944:16
+    at process._tickCallback (node.js:448:13)
+
+    .                           .  .   
+,-. |-. ,-. ,-. ,-. ,-. ,-,-. . |- |-. 
+`-. | | ,-| | | |-' `-. | | | | |  | | 
+`-' ' ' `-^ |-' `-' `-' ' ' ' ' `' ' ' 
+            '                          
+
+configuration:
+---------------------------------------
+environment:        session
+port:               8000
+dbtype:             couch
+redisSessionStore:  true
+---------------------------------------
+Sun, 05 Jul 2015 13:32:12 GMT connect deprecated multipart: use parser (multiparty, busboy, formidable) npm module instead at node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:56:20
+Sun, 05 Jul 2015 13:32:12 GMT connect deprecated limit: Restrict request size at location of read at node_modules/express/node_modules/connect/lib/middleware/multipart.js:86:15
+server started on :8000
+
+Error: request aborted
+    at makeError (/mnt/shapesmithNEW/node_modules/express/node_modules/connect/node_modules/body-parser/node_modules/raw-body/index.js:154:15)
+    at IncomingMessage.onAborted (/mnt/shapesmithNEW/node_modules/express/node_modules/connect/node_modules/body-parser/node_modules/raw-body/index.js:252:10)
+    at IncomingMessage.emit (events.js:92:17)
+    at abortIncoming (http.js:1912:11)
+    at Socket.serverSocketCloseListener (http.js:1924:5)
+    at Socket.emit (events.js:117:20)
+    at TCP.close (net.js:466:12)
+
+    .                           .  .   
+,-. |-. ,-. ,-. ,-. ,-. ,-,-. . |- |-. 
+`-. | | ,-| | | |-' `-. | | | | |  | | 
+`-' ' ' `-^ |-' `-' `-' ' ' ' ' `' ' ' 
+            '                          
+
+configuration:
+---------------------------------------
+environment:        session
+port:               8000
+dbtype:             couch
+redisSessionStore:  true
+---------------------------------------
+Tue, 06 Oct 2015 04:03:38 GMT connect deprecated multipart: use parser (multiparty, busboy, formidable) npm module instead at node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:56:20
+Tue, 06 Oct 2015 04:03:38 GMT connect deprecated limit: Restrict request size at location of read at node_modules/express/node_modules/connect/lib/middleware/multipart.js:86:15
+server started on :8000
+
+
+    .                           .  .   
+,-. |-. ,-. ,-. ,-. ,-. ,-,-. . |- |-. 
+`-. | | ,-| | | |-' `-. | | | | |  | | 
+`-' ' ' `-^ |-' `-' `-' ' ' ' ' `' ' ' 
+            '                          
+
+configuration:
+---------------------------------------
+environment:        session
+port:               8000
+dbtype:             couch
+redisSessionStore:  true
+---------------------------------------
+Tue, 10 Nov 2015 07:27:29 GMT connect deprecated multipart: use parser (multiparty, busboy, formidable) npm module instead at node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:56:20
+Tue, 10 Nov 2015 07:27:29 GMT connect deprecated limit: Restrict request size at location of read at node_modules/express/node_modules/connect/lib/middleware/multipart.js:86:15
+server started on :8000
+
+
+    .                           .  .   
+,-. |-. ,-. ,-. ,-. ,-. ,-,-. . |- |-. 
+`-. | | ,-| | | |-' `-. | | | | |  | | 
+`-' ' ' `-^ |-' `-' `-' ' ' ' ' `' ' ' 
+            '                          
+
+configuration:
+---------------------------------------
+environment:        session
+port:               8000
+dbtype:             couch
+redisSessionStore:  true
+---------------------------------------
+Wed, 25 Nov 2015 04:42:33 GMT connect deprecated multipart: use parser (multiparty, busboy, formidable) npm module instead at node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:56:20
+Wed, 25 Nov 2015 04:42:33 GMT connect deprecated limit: Restrict request size at location of read at node_modules/express/node_modules/connect/lib/middleware/multipart.js:86:15
+server started on :8000
+
+
+    .                           .  .   
+,-. |-. ,-. ,-. ,-. ,-. ,-,-. . |- |-. 
+`-. | | ,-| | | |-' `-. | | | | |  | | 
+`-' ' ' `-^ |-' `-' `-' ' ' ' ' `' ' ' 
+            '                          
+
+configuration:
+---------------------------------------
+environment:        session
+port:               8000
+dbtype:             couch
+redisSessionStore:  true
+---------------------------------------
+Thu, 18 Feb 2016 08:19:02 GMT connect deprecated multipart: use parser (multiparty, busboy, formidable) npm module instead at node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:56:20
+Thu, 18 Feb 2016 08:19:02 GMT connect deprecated limit: Restrict request size at location of read at node_modules/express/node_modules/connect/lib/middleware/multipart.js:86:15
+server started on :8000
+
+
+/mnt/shapesmithNEW/node_modules/ueberDB/couch_db.js:109
+        if (er) throw new Error(JSON.stringify(er));
+                      ^
+Error: {"error":"illegal_database_name","reason":"Only lowercase characters (a-z), digits (0-9), and any of the characters _, $, (, ), +, -, and / are allowed. Must begin with a letter."}
+    at /mnt/shapesmithNEW/node_modules/ueberDB/couch_db.js:109:23
+    at IncomingMessage.<anonymous> (/mnt/shapesmithNEW/node_modules/felix-couchdb/lib/couchdb.js:236:26)
+    at IncomingMessage.emit (events.js:117:20)
+    at _stream_readable.js:944:16
+    at process._tickCallback (node.js:448:13)
+
+    .                           .  .   
+,-. |-. ,-. ,-. ,-. ,-. ,-,-. . |- |-. 
+`-. | | ,-| | | |-' `-. | | | | |  | | 
+`-' ' ' `-^ |-' `-' `-' ' ' ' ' `' ' ' 
+            '                          
+
+configuration:
+---------------------------------------
+environment:        session
+port:               8000
+dbtype:             couch
+redisSessionStore:  true
+---------------------------------------
+Wed, 31 May 2017 02:36:11 GMT connect deprecated multipart: use parser (multiparty, busboy, formidable) npm module instead at node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:56:20
+Wed, 31 May 2017 02:36:11 GMT connect deprecated limit: Restrict request size at location of read at node_modules/express/node_modules/connect/lib/middleware/multipart.js:86:15
+server started on :8000
+
+
+    .                           .  .   
+,-. |-. ,-. ,-. ,-. ,-. ,-,-. . |- |-. 
+`-. | | ,-| | | |-' `-. | | | | |  | | 
+`-' ' ' `-^ |-' `-' `-' ' ' ' ' `' ' ' 
+            '                          
+
+configuration:
+---------------------------------------
+environment:        session
+port:               8000
+dbtype:             couch
+redisSessionStore:  true
+---------------------------------------
+Wed, 31 May 2017 04:09:50 GMT connect deprecated multipart: use parser (multiparty, busboy, formidable) npm module instead at node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:56:20
+Wed, 31 May 2017 04:09:50 GMT connect deprecated limit: Restrict request size at location of read at node_modules/express/node_modules/connect/lib/middleware/multipart.js:86:15
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at Server.listen (net.js:1139:5)
+    at Object.<anonymous> (/mnt/shapesmithNEW/src/api/server.js:8:8)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Function.Module.runMain (module.js:497:10)
+
+    .                           .  .   
+,-. |-. ,-. ,-. ,-. ,-. ,-,-. . |- |-. 
+`-. | | ,-| | | |-' `-. | | | | |  | | 
+`-' ' ' `-^ |-' `-' `-' ' ' ' ' `' ' ' 
+            '                          
+
+configuration:
+---------------------------------------
+environment:        session
+port:               8000
+dbtype:             couch
+redisSessionStore:  true
+---------------------------------------
+Wed, 31 May 2017 08:37:44 GMT connect deprecated multipart: use parser (multiparty, busboy, formidable) npm module instead at node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:56:20
+Wed, 31 May 2017 08:37:44 GMT connect deprecated limit: Restrict request size at location of read at node_modules/express/node_modules/connect/lib/middleware/multipart.js:86:15
+server started on :8000
+
+
+    .                           .  .   
+,-. |-. ,-. ,-. ,-. ,-. ,-,-. . |- |-. 
+`-. | | ,-| | | |-' `-. | | | | |  | | 
+`-' ' ' `-^ |-' `-' `-' ' ' ' ' `' ' ' 
+            '                          
+
+configuration:
+---------------------------------------
+environment:        session
+port:               8000
+dbtype:             couch
+redisSessionStore:  true
+---------------------------------------
+Thu, 08 Jun 2017 16:55:29 GMT connect deprecated multipart: use parser (multiparty, busboy, formidable) npm module instead at node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:56:20
+Thu, 08 Jun 2017 16:55:29 GMT connect deprecated limit: Restrict request size at location of read at node_modules/express/node_modules/connect/lib/middleware/multipart.js:86:15
+server started on :8000
+
+
+    .                           .  .   
+,-. |-. ,-. ,-. ,-. ,-. ,-,-. . |- |-. 
+`-. | | ,-| | | |-' `-. | | | | |  | | 
+`-' ' ' `-^ |-' `-' `-' ' ' ' ' `' ' ' 
+            '                          
+
+configuration:
+---------------------------------------
+environment:        session
+port:               8000
+dbtype:             couch
+redisSessionStore:  true
+---------------------------------------
+Tue, 04 Jul 2017 03:25:58 GMT connect deprecated multipart: use parser (multiparty, busboy, formidable) npm module instead at node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:56:20
+Tue, 04 Jul 2017 03:25:58 GMT connect deprecated limit: Restrict request size at location of read at node_modules/express/node_modules/connect/lib/middleware/multipart.js:86:15
+server started on :8000
+
+[1358] 05 Jul 23:56:21 # Warning: no config file specified, using the default config. In order to specify a config file use 'redis-server /path/to/redis.conf'
+[1358] 05 Jul 23:56:21 * Server started, Redis version 2.4.10
+[1358] 05 Jul 23:56:21 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1358] 05 Jul 23:56:21 * DB loaded from disk: 0 seconds
+[1358] 05 Jul 23:56:21 * The server is now ready to accept connections on port 6379
+[1358] 05 Jul 23:56:21 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+[1358] 05 Jul 23:56:21 - 0 clients connected (0 slaves), 717880 bytes in use
+[1358] 05 Jul 23:56:26 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+[1358] 05 Jul 23:56:26 - 0 clients connected (0 slaves), 717880 bytes in use

@@ -1,0 +1,172 @@
+html {
+margin: 0;
+padding: 0;
+}
+* {
+font-family: tahoma,arial,'Hiragino Sans GB',宋体,sans-serif;
+}
+body {
+width:100%;
+height:100%;
+margin: 0px;
+padding: 0px;
+background:url(../blog_img/bk.gif);
+font-family: tahoma,arial,'Hiragino Sans GB',宋体,sans-serif;
+}
+body, td, th, input, textarea, select, a {
+font-size: 12px ;
+} 
+
+
+
+.logo{
+	width:1200px;
+	margin:0 auto;
+	min-width:1200px;
+	text-align:center;
+}
+.logo div{
+	color:#888;
+}
+
+
+.main{
+	width:1200px;
+	margin:0 auto;
+	min-width:1200px;
+}
+
+
+.clear{
+	clear:both;
+}
+
+.left_info{
+	width:250px;
+	border:1px solid #dedede;
+	border-radius:3px;
+	background:#fff;
+	min-height:100px;
+	padding:10px;
+	margin-bottom:10px;
+}
+
+.left_info .title{
+	border-bottom:1px solid #dedede;
+	height:25px;
+	font-size:13px;
+	line-height:16px;
+	font-family: tahoma,arial,Microsoft Yahei,宋体;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.right_info{
+	width:886px;
+	border:1px solid #dedede;
+	border-radius:3px;
+	background:#fff;
+	min-height:100px;
+	padding:10px;
+	margin-bottom:10px;
+}
+
+.right_info .title{
+	height:25px;
+	font-size:15px;
+	line-height:25px;
+	font-family: tahoma,arial,Microsoft Yahei,宋体;
+    font-size: 20px;
+    font-weight: 400;	
+}
+.small{
+	font-size:12px;
+	color:#888;
+	padding:5px;
+}
+
+.tags{
+	color:#888;
+	padding-top:5px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.tags a{
+	color:red;
+	padding-right:8px;
+	text-decoration:none;
+}
+
+.tagMore{
+	color:#888;
+	padding-top:5px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.tagMore a{
+	text-decoration:none;	
+}
+.tagMore a:hover{
+	text-decoration:underline;
+}
+
+.right_info .content{
+	color:#888;
+	padding-top:10px;
+	padding-left:10px;
+	padding-bottom:5px;
+	line-height:20px;
+	text-align:justify; text-justify:inter-ideograph;
+	padding-right:8px;
+}
+
+.readAll{
+	padding:10px;
+	color:#298DCD;
+	text-decoration:none;
+}
+
+
+.float_left{
+	float:left;
+}
+.float_right{
+	float:right;
+}
+
+.margin_left_1{
+	margin-left:10px;
+}
+
+#font_black{
+	color:#000;
+}
+
+.pageList{
+	list-style:none;
+	float:right;
+}
+
+.pageList a{
+	color:#888;
+}
+
+.pageList a li{
+	float:left;
+	border:1px solid #c1c1c1;
+	padding-left:8px; padding-right:8px;
+	padding-top:5px; padding-bottom:5px;
+	margin-left:5px;
+	background:#fff;
+}
+
+#pageListSel{
+	float:left;
+	border:1px solid #298DCD;
+	padding-left:8px; padding-right:8px;
+	padding-top:5px; padding-bottom:5px;
+	margin-left:5px;	
+	color:#298DCD;
+}

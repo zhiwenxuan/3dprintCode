@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2985" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.48.2 r9819" sodipodi:docname="subtract.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px"
+	 viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<sodipodi:namedview  id="base" inkscape:cy="32" inkscape:cx="19.46529" inkscape:zoom="3.8890873" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" showgrid="true" inkscape:window-maximized="0" inkscape:window-y="19" inkscape:window-x="1882" inkscape:window-height="919" inkscape:window-width="1307" inkscape:grid-bbox="true" inkscape:document-units="px" inkscape:current-layer="layer4" inkscape:pageshadow="2" inkscape:pageopacity="0.0">
+	</sodipodi:namedview>
+<sodipodi:namedview  id="base" inkscape:cy="32" inkscape:cx="19.46529" inkscape:zoom="3.8890873" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" showgrid="true" inkscape:window-maximized="0" inkscape:window-y="19" inkscape:window-x="1882" inkscape:window-height="919" inkscape:window-width="1307" inkscape:grid-bbox="true" inkscape:document-units="px" inkscape:current-layer="layer4" inkscape:pageshadow="2" inkscape:pageopacity="0.0">
+	</sodipodi:namedview>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="26.4756" y1="30.751" x2="62.2246" y2="30.751">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0" style="stop-color:#000000"/>
+</linearGradient>
+<ellipse fill="url(#SVGID_1_)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" cx="44.35" cy="30.751" rx="17.875" ry="16.592"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="2.2749" y1="30.751" x2="38.0254" y2="30.751">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0" style="stop-color:#000000"/>
+</linearGradient>
+<ellipse fill="url(#SVGID_2_)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" cx="20.15" cy="30.751" rx="17.875" ry="16.592"/>
+</svg>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link href="/css/reset.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/font-awesome/css/font-awesome.css" rel="stylesheet">
+  <link href="/css/modeller.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/shapesmith.css" rel="stylesheet" type="text/css"/>
+
+   <script>
+        var Shapesmith = Shapesmith || {};
+        Shapesmith.user = '{{user}}';
+        Shapesmith.design = '{{design}}';
+    </script>
+  
+  <script data-main="/src/{{js_environment}}main.ui.js" src="/lib/require-jquery.js"></script>
+
+  <script type="text/javascript" src="/lib/Detector.js"></script>
+  <script type="text/javascript" src="/lib/three.min.js"></script>
+  <script type="text/javascript" src="/lib/stats.min.js"></script>
+  <script type="text/javascript" src="/lib/dat.gui.min.js"></script>
+  <script type="text/javascript" src="/src/PipeGeometry.js"></script>
+  <script type="text/javascript" src="/lib/csg.js"></script>
+  
+  <script type="text/javascript" src="/lib/IndexedDBShim.min.js"></script>
+  <script type="text/javascript" src="/lib/html5slider.js"></script>
+  <script type="text/javascript" src="/lib/FileSaver.js"></script>
+
+
+</head>
+<body>
+
+  <div id="graphs">
+    <div id="messaging"></div>
+    <table id="variables"></table>
+    <div class="geometry section">geometry</div>
+    <div id="geometry"></div>
+  </div>
+  <div id="scene"></div>
+  <div id="toolbar"></div>
+  {{#temporary}}
+  <div style="display:none" class="button" id="signup"><a href="/signup">Sign up</a></div>
+  {{/temporary}}
+  {{#signoutButton}}
+  <div style="display:none" class="button" id="signout"><a href="/signout">Sign out</a></div>
+  {{/signoutButton}}
+
+  <div id="workplane-settings"></div>
+    
+
+
+  <div class="overlay-help main" style="display: none">
+    <p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欢迎使用在线设计中心！</p>
+      <div class="got-it"><input type="button" value="开始"/></div>
+  </div>
+
+  <input type="file" class="offscreen" id="stl-file-select-input"/>
+
+<script>
+  {{#firstTry}}
+  Shapesmith.firstTry = true;
+  {{/firstTry}}
+</script>
+
+{{#track}}
+
+{{/track}}
+
+</body>

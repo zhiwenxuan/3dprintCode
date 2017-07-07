@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="jquery-1.4.2.min.js" type="text/javascript"></script>
+    <script src="TSBox.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+			
+            $("#btn").click(function () {
+				$.tsBox.Alert("我是提示窗口");	//提示窗口
+ 		return false;
+           });
+
+            $("#btn4").click(function () {
+				$.tsBox.Error("我是错误窗口");	//提示窗口
+ 		return false;
+           });
+			
+            $("#btn2").click(function () {
+                $.tsBox.Confirm("我是确认窗口",function(){	//确定窗口		
+					alert("您点击了确定");
+				});			
+		return false;
+            });
+
+            $("#btn3").click(function () {
+               $.tsBox.Flash("我是闪动窗口");	//闪动窗口
+		return false;
+            });
+			
+            $("#btn5").click(function () {
+               $.tsBox.Show("#content");	//闪动窗口
+			   $("#btn_content_close").click(function(){
+				   $.tsBox.Hide("#content");
+				   return false;
+				});
+            });
+
+        });
+    </script>
+</head>
+<body>
+<h2>TSBox 提示窗口演示</h2>
+    <a href="#" id="btn">
+        我是提示窗口</a><br />
+        <a href="#" id="btn2">
+            我是确认窗口</a>
+    </a><br />
+        <a href="#" id="btn3">
+            我是闪动窗口
+            </a><br />
+    <a href="#" id="btn4">
+        我是错误窗口
+    </a><br />
+    <a href="#" id="btn5">
+        显示内容
+    </a>
+    <div id="content" style="width: 500px; padding: 10px; display: none;">【爱尔兰人的婚姻】爱尔兰结婚不许离婚，但是可以选择年限1到100年，过期不续期就相当于自动离了，但是时间越短费用越高，1年的登记费折合人民币2万多，100年的只要6元钱。结婚一年有一本好厚关于婚姻书要看，而选择100年只一张纸，上面写着一句祝你白头到老
+    <p><a href="#" id="btn_content_close">点击关闭</a></p>
+    <p><a href="#" class="close">点击也是关闭</a></p>
+    </div>
+       <p style="height: 800px;"></p>
+</body>
+</html>

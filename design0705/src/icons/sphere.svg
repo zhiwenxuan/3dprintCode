@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg5961" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.48.2 r9819" sodipodi:docname="sphere.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px"
+	 viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<sodipodi:namedview  id="base" inkscape:cy="26.626515" inkscape:cx="28.363636" inkscape:zoom="11" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" showgrid="true" inkscape:window-maximized="0" inkscape:window-y="26" inkscape:window-x="380" inkscape:window-height="727" inkscape:window-width="1156" inkscape:grid-bbox="true" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:pageshadow="2" inkscape:pageopacity="0.0">
+	</sodipodi:namedview>
+<g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer">
+	<radialGradient id="path4205-5-4_2_" cx="61.5391" cy="32.6934" r="0" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	
+		<path id="path4205-5-4_3_" inkscape:export-filename="/Users/bjnortier/development/shapesmith.phoenix/nodes/api/priv/www/images/icons/sphere32x32.greyscale.png" inkscape:export-ydpi="43.389999" inkscape:export-xdpi="43.389999" sodipodi:ry="4.7350903" sodipodi:open="true" sodipodi:rx="29.483828" sodipodi:cy="420.57489" sodipodi:end="6.2567711" sodipodi:cx="479.63306" sodipodi:type="arc" sodipodi:start="3.1148502" fill="url(#path4205-5-4_2_)" stroke="#5D5D5D" stroke-width="1.4287" stroke-linecap="round" stroke-linejoin="round" d="
+		M61.539,32.693"/>
+	<radialGradient id="path4205-5-4_4_" cx="2.0371" cy="32.9238" r="0" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	
+		<path id="path4205-5-4_1_" inkscape:export-filename="/Users/bjnortier/development/shapesmith.phoenix/nodes/api/priv/www/images/icons/sphere32x32.greyscale.png" inkscape:export-ydpi="43.389999" inkscape:export-xdpi="43.389999" sodipodi:ry="4.7350903" sodipodi:open="true" sodipodi:rx="29.483828" sodipodi:cy="420.57489" sodipodi:end="6.2567711" sodipodi:cx="479.63306" sodipodi:type="arc" sodipodi:start="3.1148502" fill="url(#path4205-5-4_4_)" stroke="#5D5D5D" stroke-width="1.4287" stroke-linecap="round" stroke-linejoin="round" d="
+		M2.037,32.924"/>
+	<radialGradient id="path4205-2-9_3_" cx="31.8677" cy="61.4121" r="0" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	
+		<path id="path4205-2-9_2_" inkscape:export-filename="/Users/bjnortier/development/shapesmith.phoenix/nodes/api/priv/www/images/icons/sphere32x32.greyscale.png" inkscape:export-ydpi="43.389999" inkscape:export-xdpi="43.389999" sodipodi:ry="4.7350903" sodipodi:open="true" sodipodi:rx="29.483828" sodipodi:cy="420.57489" sodipodi:end="6.2961162" sodipodi:cx="479.63306" sodipodi:type="arc" sodipodi:start="3.178188" fill="url(#path4205-2-9_3_)" stroke="#5D5D5D" stroke-width="1.0319" stroke-linecap="round" stroke-linejoin="round" d="
+		M31.868,61.412"/>
+	<radialGradient id="path4205-2-9_4_" cx="32.2793" cy="1.9106" r="0" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	
+		<path id="path4205-2-9_1_" inkscape:export-filename="/Users/bjnortier/development/shapesmith.phoenix/nodes/api/priv/www/images/icons/sphere32x32.greyscale.png" inkscape:export-ydpi="43.389999" inkscape:export-xdpi="43.389999" sodipodi:ry="4.7350903" sodipodi:open="true" sodipodi:rx="29.483828" sodipodi:cy="420.57489" sodipodi:end="6.2961162" sodipodi:cx="479.63306" sodipodi:type="arc" sodipodi:start="3.178188" fill="url(#path4205-2-9_4_)" stroke="#5D5D5D" stroke-width="1.0319" stroke-linecap="round" stroke-linejoin="round" d="
+		M32.279,1.911"/>
+	<radialGradient id="path4217-5_1_" cx="32" cy="31.8633" r="29.9277" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	
+		<path id="path4217-5" inkscape:export-filename="/Users/bjnortier/development/shapesmith.phoenix/nodes/api/priv/www/images/icons/sphere32x32.greyscale.png" inkscape:export-ydpi="43.389999" inkscape:export-xdpi="43.389999" sodipodi:ry="30.115173" sodipodi:rx="30.115173" sodipodi:cy="419.05966" sodipodi:cx="511.20032" sodipodi:type="arc" fill="url(#path4217-5_1_)" fill-opacity="0.651" stroke="#5D5D5D" stroke-width="1.3822" stroke-linecap="round" stroke-linejoin="round" d="
+		M61.928,31.864c0,16.529-13.399,29.927-29.928,29.927S2.072,48.393,2.072,31.864S15.471,1.936,32,1.936
+		S61.928,15.335,61.928,31.864z"/>
+	<radialGradient id="path4205-2-3-0_3_" cx="31.2783" cy="1.9072" r="0" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	
+		<path id="path4205-2-3-0_2_" fill="url(#path4205-2-3-0_3_)" stroke="#5D5D5D" stroke-width="1.0319" stroke-linecap="round" stroke-linejoin="round" d="
+		M31.278,1.907"/>
+	<radialGradient id="path4205-2-3-0_4_" cx="31.5571" cy="61.4141" r="0" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	
+		<path id="path4205-2-3-0_1_" fill="url(#path4205-2-3-0_4_)" stroke="#5D5D5D" stroke-width="1.0319" stroke-linecap="round" stroke-linejoin="round" d="
+		M31.557,61.414"/>
+	<radialGradient id="path4205-9_2_" cx="61.6211" cy="33.2129" r="0" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	
+		<path id="path4205-9_1_" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="url(#path4205-9_2_)" stroke="#5D5D5D" stroke-width="1.4287" stroke-linecap="round" stroke-linejoin="round" d="
+		M61.621,33.213"/>
+	<radialGradient id="path4205-2-3-0-9_2_" cx="31.2617" cy="2.1055" r="0" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	
+		<path id="path4205-2-3-0-9_1_" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="url(#path4205-2-3-0-9_2_)" stroke="#5D5D5D" stroke-width="1.3736" stroke-linecap="round" stroke-linejoin="round" d="
+		M31.262,2.105"/>
+	<radialGradient id="path4205-9-8_1_" cx="2.1475" cy="33.4688" r="0" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	
+		<path id="path4205-9-8_2_" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="url(#path4205-9-8_1_)" stroke="#5D5D5D" stroke-width="1.3736" stroke-linecap="round" stroke-linejoin="round" d="
+		M2.147,33.469"/>
+</g>
+</svg>

@@ -1,0 +1,241 @@
+.cvBoxShade
+{
+    z-index: 2000;
+    background: #000;
+    left: 0px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    height: 0px;
+}
+
+
+.cvBoxBorder
+{
+    font-size: 12px;
+    z-index: 2000;
+    width: 100%;
+    position: absolute;
+}
+
+.cvBoxBorder A
+{
+
+    text-decoration: none;
+}
+
+.cvBoxBorder A:hover
+{
+    color: #c30;
+    text-decoration: none;
+}
+
+.cvBoxBack
+{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    table-layout: auto;
+}
+.cvBoxBack td
+{
+    padding: 0px;
+    margin: 0px;
+}
+.cvBoxBackTop, .cvBoxBackBottom
+{
+    height: 8px;
+    background: #999;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+.cvBoxBackLeft, .cvBoxBackRight
+{
+    width: 8px;
+    background: #999;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+.cvBoxBackTop
+{
+    -moz-border-radius: 5px 5px 0px 0px;
+    -webkit-border-radius: 5px 5px 0px 0px;
+    border-radius: 5px 5px 0px 0px;
+}
+.cvBoxBackBottom
+{
+    -moz-border-radius: 0px 0px 5px 5px;
+    -webkit-border-radius: 0px 0px 5px 5px;
+    border-radius: 0px 0px 5px 5px;
+}
+
+
+.cvBoxTitleBar
+{
+    width: 100%;
+    line-height: 28px;
+    height: 27px;
+    background-color: #eeeeee;
+	font-size:14px;
+}
+
+.cvBoxTitleBarText
+{
+    padding-left: 10px;
+    font-weight: bold;
+    float: left;
+    color: #333;
+}
+
+.cvBoxTitleBarClose
+{
+    padding-right: 10px;
+    float: right;
+    color: #3867af;
+    font-family: Verdana;
+}
+
+.cvBoxTitleBarClose IMG
+{
+    border-top-width: 0px;
+    display: block;
+    border-left-width: 0px;
+    border-bottom-width: 0px;
+    margin: 4px 0px 0px;
+    border-right-width: 0px;
+}
+
+.cvBoxBody
+{
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.cvBoxBodyBtn
+{
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.cvBoxBodyText
+{
+    padding: 0px;
+	line-height: 18px;
+	margin-top:10px;
+}
+
+/*.cvBoxBodyText div{
+	margin-left: 50px;
+	padding: 15px 10px;
+	line-height: 18px;
+	background: #fff;
+}*/
+
+.cvBoxIconTick
+{
+    background: url(jquery.cvbox.gif?v=20111124) no-repeat 0px center;
+	width:45px;
+	height:45px;
+	float:left;
+	margin-right:5px;
+	margin-left:5px;
+}
+.cvBoxIconError
+{
+    background: url(jquery.cvbox.gif?v=20111124) no-repeat -240px center;
+	width:45px;
+	height:45px;
+	float:left;
+	margin-right:5px;
+	margin-left:5px;
+	
+}
+.cvBoxIconComfirm
+{
+    background: url(jquery.cvbox.gif?v=20111124) no-repeat -80px center;
+	width:45px;
+	height:45px;
+	float:left;
+	margin-right:5px;
+	margin-left:5px;
+}
+.cvBoxIconAlert
+{
+    background: url(jquery.cvbox.gif?v=20111124) no-repeat -160px center;
+	width:45px;
+	height:45px;
+	float:left;
+	margin-right:5px;
+	margin-left:5px;
+}
+.cvBoxBodyBtn P
+{
+    clear: both;
+	margin-bottom:10px;
+	margin-top:0px;
+}
+
+.cvBoxBtnSubmit
+{
+   	display: block;
+	background: url(../images/main_imgs.png);
+	width: 101px;
+	height: 30px;
+	background-position: -223px -308px;
+	line-height: 29px;
+	border: 0px;
+	text-align: center;
+	color: #676767;
+	margin-left:50px;
+}
+
+.cvBoxBtnSubmit_2
+{
+   	display: block;
+	background: url(../images/main_imgs.png);
+	width: 101px;
+	height: 30px;
+	background-position: -223px -308px;
+	line-height: 29px;
+	border: 0px;
+	text-align: center;
+	color: #676767;
+	float:left;
+	margin-left:30px;
+}
+
+
+.cvBoxBtnCancel
+{
+    display: block;
+	background: url(../images/main_imgs.png);
+	width: 101px;
+	height: 30px;
+	background-position: -223px -308px;
+	line-height: 29px;
+	border: 0px;
+	text-align: center;
+	color: #676767;
+	float:left;
+	margin-left:20px;
+}
+
+.cvBoxClear
+{
+    clear: both;
+    padding-right: 0px;
+    display: block;
+    padding-left: 0px;
+    font-size: 1px;
+    padding-bottom: 0px;
+    margin: 0px;
+    line-height: 1px;
+    padding-top: 0px;
+}
+
+.cvBoxTextSpace{
+	float:left;
+	margin-top:10px;
+	margin-bottom:10px;
+}

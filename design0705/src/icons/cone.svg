@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg5961" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.48.2 r9819" sodipodi:docname="cylinder.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px"
+	 viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<sodipodi:namedview  id="base" inkscape:cy="29.49554" inkscape:cx="37.454545" inkscape:zoom="7.7781746" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" showgrid="true" inkscape:window-maximized="0" inkscape:window-y="34" inkscape:window-x="2113" inkscape:window-height="865" inkscape:window-width="1112" inkscape:grid-bbox="true" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:pageshadow="2" inkscape:pageopacity="0.0">
+	</sodipodi:namedview>
+<g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer">
+	<linearGradient id="path3054_1_" gradientUnits="userSpaceOnUse" x1="8" y1="34.7441" x2="57.1777" y2="34.7441">
+		<stop  offset="0" style="stop-color:#DBDBDB"/>
+		<stop  offset="0.0121" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.2" style="stop-color:#E5E5E5"/>
+		<stop  offset="0.2909" style="stop-color:#F1F1F1"/>
+		<stop  offset="0.6303" style="stop-color:#000000"/>
+	</linearGradient>
+	
+		<path id="path3054" inkscape:connector-curvature="0" sodipodi:nodetypes="cczcc" fill="url(#path3054_1_)" stroke="#666666" stroke-width="1.267" stroke-linejoin="round" d="
+		M32.594,7.469L8,52.375c-0.005,6.873,15.302,9.774,26.232,9.639c10.932-0.135,22.838-3.969,22.945-9.449L32.594,7.469z"/>
+</g>
+</svg>
